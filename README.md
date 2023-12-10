@@ -17,7 +17,7 @@
 <li> Bu işlem ile kullanıcıdan önce metin alır ardından kaydırma anahtarı ister ve kelimeyi şifreleyerek "sifrelerim.rtf" metin belgesine şifrelenmiş metni ve o metin için girilmiş kaydırma anahtarını not eder.</li>
 <h4>  b) <sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/a38be26b-8eac-4d61-a2cb-ba77ee185d06" alt=DosyadakiMetniSifrelemeSekmesi width=200> </sub> </h4> </br>
 <li> Bu işlem ile programın okuyabileceği bir dosya ismi klavyeden girilir, program dosyayı açar ve dosyadaki metni yine klavyeden alınan kaydırma anahtarına göre şifreleyip "sifrelerim.rtf" metin belgesine yazdırır. </br>  (<i>dosyanın nasıl ekleneceğiyle ilgili detaylı bilgi bilgilendirmenin sonunda mevcuttur</i>)</li>
-<h4> c)<sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/a2af3584-7a5c-4206-95d6-392accce3525" alt=MenuyeDonmeSekmesi width=110>
+<h4> c)<sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/284911d8-0d0f-49cb-a933-d66587c4f35f" alt=MenuyeDonmeSekmesi width=170>
 </sub> </h4> </br>
 <li> Bu işlem menüye geri döndürür.</li>
 
