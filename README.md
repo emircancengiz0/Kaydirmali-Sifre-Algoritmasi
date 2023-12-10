@@ -8,39 +8,39 @@
 2. Konsola gelen menüden bir sekme seçilir ve klavyeden bu sekmenin solundaki sıra numarası girilir ardından "enter" tuşlanır.</br>
 3. Seçilen sekmeye göre şu işlemler yapılır: <br><br>
 
-  <h3> A) <sub> <img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/20a41518-d586-46ec-be50-9e8627bfbba7" alt=sifrelemeIslemiSekmesi width=200 > </sub> </h3> <br> 
+  <h3> A) <sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/26e0a385-6212-4860-a244-9a5a4838b89b" alt=sifrelemeIslemiSekmesi width=200 > </sub> </h3> <br> 
 - Menüdeyken "1" tuşlanırsa "SIFRELEME ISLEMLERI" sekmesi çalışır.
 - "SIFRELEME ISLEMLERI" sekmesinin de alt sekmeleri vardır:<br>
-  <sub> <img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/d324ebb7-5009-4074-839f-eacfd9cd86a8" alt=sifrelemeIslemiAltSekmeleri width=200 > </sub> <br>
+  <sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/288b10c9-d60c-4103-8254-4ea2fccbb333" alt=sifrelemeIslemiAltSekmeleri width=200 > </sub> <br>
 - Bu sekmede de numaralandırma vardır, solundaki numara klavyeden girilir ardından "enter" tuşlanır. </br>
-<h4> a) <img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/0463e593-bd85-4e75-9334-d14661f8b39c" alt=metinSifrelemeSekmesi width=140 > </h4> </br>
+<h4> a) <sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/32bf737e-bd1f-407a-af4f-16588915185b" alt=metinSifrelemeSekmesi width=140 > </sub> </h4> </br>
 <li> Bu işlem ile kullanıcıdan önce metin alır ardından kaydırma anahtarı ister ve kelimeyi şifreleyerek "sifrelerim.rtf" metin belgesine şifrelenmiş metni ve o metin için girilmiş kaydırma anahtarını not eder.</li>
-<h4>  b) <sub> <img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/a1c2f6ec-88e7-4415-ab3a-ed477ff6df7e" alt=DosyadakiMetniSifrelemeSekmesi width=200> </sub> </h4> </br>
+<h4>  b) <sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/a38be26b-8eac-4d61-a2cb-ba77ee185d06" alt=DosyadakiMetniSifrelemeSekmesi width=200> </sub> </h4> </br>
 <li> Bu işlem ile programın okuyabileceği bir dosya ismi klavyeden girilir, program dosyayı açar ve dosyadaki metni yine klavyeden alınan kaydırma anahtarına göre şifreleyip "sifrelerim.rtf" metin belgesine yazdırır. </br>  (<i>dosyanın nasıl ekleneceğiyle ilgili detaylı bilgi bilgilendirmenin sonunda mevcuttur</i>)</li>
-<h4> c)<sub> <img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/44ec6b73-3881-45a8-af1e-41162ad8ee61" alt=MenuyeDonmeSekmesi width=110>
+<h4> c)<sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/a2af3584-7a5c-4206-95d6-392accce3525" alt=MenuyeDonmeSekmesi width=110>
 </sub> </h4> </br>
 <li> Bu işlem menüye geri döndürür.</li>
 
-<h3> B) <sub> <img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/9149f3c2-63e6-4f1d-b416-609cfb1c6456" alt=DesifreIslemleriSekmesi width=200></sub></h3> </br>
+<h3> B) <sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/68e7dbbe-e6db-4f85-8086-21ecdf3c8c91" alt=DesifreIslemleriSekmesi width=200></sub></h3> </br>
 - Menüdeyken "2" tuşlanırsa "DESIFRE ISLEMLERI" sekmesi açılır.
-- Kullanıcı bu sekmeye geldiğinde önüne önce şifrelerini görmek istemesiyle ilgili bir bilgilendirme gelir. (<img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/722ee389-a6c8-404d-881f-c39f587e00f5" alt=bahseilenBilgilendirme width=300>)
+- Kullanıcı bu sekmeye geldiğinde önüne önce şifrelerini görmek istemesiyle ilgili bir bilgilendirme gelir. (<sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/98a048c5-085b-428a-b3be-1b3ba109fe29" alt=bahsedilenBilgilendirme width=300> </sub>)
 
 <p>-Bu bilgilendirmede kullanıcı 'y' veya 'Y' girip "enter" tuşlarsa daha önceden kayıtlı şifreleri program "sifrelerim.rtf" dosyasından alarak getirir. </p>
 - Program önce deşifre edilmek istenen kelimeyi veya kelime gruplarını klavyeden girmenizi ister, bu kelime "sifrelerim.rtf" dosyasında olmak zorunda değildir. </br>
 - Ardından bu metin için kaydırma anahtarını sorar ve kaydırma anahtarı girilerek "enter" tuşlanır. </br>
 - Bu işlemler tamamlanınca program deşifre olmuş metni konsola yazdıracaktır.
 
-<h3> C) <img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/360057fa-34da-4ec1-898b-aa985c13c805" alt=dosyadakiSifreleriSilmeSekmesi width=250> </h3> </br>
+<h3> C) <sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/930ede41-5650-46d5-8fdf-5c6b83432be2" alt=dosyadakiSifreleriSilmeSekmesi width=250> </sub> </h3> </br>
 - Menüdeyken "3" tuşlanırsa "DOSYADAKI SIFRELERI TEMIZLE" sekmesi açılır.
 - Bu sekme "sifrelerim.rtf" dosyasındaki şifrelerin hepsini temizlemek içindir.
-- Sekme ilk açıldığında bir uyarı yapılır. (<img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/6d1f4022-21d4-4f2c-8d5d-b3b2e0478ec1" alt=uyari1 width=200> <img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/41c66696-65af-41eb-8680-75b08850bd9f" alt=uyari2 width=200 >)</br>
+- Sekme ilk açıldığında bir uyarı yapılır. (<img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/c2ca0f5b-2241-435c-a739-ba8d1571009b" alt=uyari1 width=200> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/b98e524d-f637-4237-b10e-e53e78d49176" alt=uyari2 width=200 >)</br>
 - Burada kullanıcı '0' girip "enter" tuşlarsa şifreler tümüyle temizlenir, farklı bir tuşa basması durumunda şifreler silinmez ve ana menüye dönülür.
 
-<h3> D)<sub><img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/9393bf5d-518c-4d77-b3b1-65ca2518a9b6" alt=kayitliSifreler width=220 </sub> </h3> </br>
+<h3> D)<sub><img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/75fe90e4-4e29-440c-81c7-b426aabff38e" alt=kayitliSifreler width=220 </sub> </h3> </br>
 - Menüdeyken "4" tuşlanırsa "KAYITLI SIFRELERI GOSTER" sekmesi açılır. </br>
 - Bu sekme "sifrelerim.rtf" dosyasındaki şifreleri kaydırma anahtarlarıyla beraber konsola yazdırır.
 
-<h3> E) <sub> <img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/7edb55b1-2963-4670-b98b-c94d4bf03569" alt=programiKapatSekmesi width=150 </sub> </h3> </br>
+<h3> E) <sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/b01f4700-a6b3-42ff-8cab-e4dd5ebe514e" alt=programiKapatSekmesi width=150 </sub> </h3> </br>
 - Menüdeyken "5" tuşlanırsa "PROGRAMI KAPAT" sekmesi açılır. </br>
 - Adından anlaşıldığı gibi programı sonlandırır.
 
@@ -51,13 +51,13 @@
 <h3> DOSYADAKİ METNİ ŞİFRELETMEK İÇİN DETAYLI BİLGİ:</h3>
 - Kodun çalışması için girdi yerine dosyanın nesne adını girmemiz gereklidir.
 - Elimizde böyle bir dosya olduğunu varsayalım.</br>
-<img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/20d1a650-42d8-4743-aff2-737c16845d69" alt=ornekResim1 width=250> </br>
+<img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/a6d47200-2082-4677-a351-6044c5143d71" alt=ornekResim1 width=250> </br>
 - Bu dosyaya sağ tıklanır ve "özellikler" seçilir. </br>
-<img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/ef0e8bd8-3200-4226-916d-7360456ccf22" alt=ornekResim2 width=250> </br>
+<img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/136111c8-d9fa-4883-a73e-7940c8acc549" alt=ornekResim2 width=250> </br>
 - Önümüze gelen ekranda "güvenlik" sekmesi seçilir. </br>
-<img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/bc4bdfc9-5b37-4332-b415-46c9123d4350" alt=ornekResim3 width=250> </br>
+<img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/a3b25e0f-6205-4cb7-bd57-7a366cdf7648" alt=ornekResim3 width=250> </br>
 - Önümüze gelen ekranda "nesne adı" kopyalanır. </br>
-<img src="https://github.com/emruu/Kaydirmali-Sifreleme-Algoritmasi-/assets/153358595/cf1110b4-7d02-4ab9-9686-ce4d8bd25c29" alt=ornekResim4 width=350> </br>
+<img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/003038b5-93d2-4f87-83c4-0fc29a2dba9a" alt=ornekResim4 width=350> </br>
 - Bu nesne adı konsolda sırasıyla "SIFRELEME ISLEMLERI" - "DOSYADAKI METNI SIFRELE" - "DOSYA ADINI GIRIN:" gidilerek en son kısma yapıştırılır. 
 <i>DİKKAT:</i> nesne adı kopyalandığında başında "?" işareti ile kopyalanmış olabilir, bu işaret dosya adını girerken dahil edilirse program şifrelemez.
 
