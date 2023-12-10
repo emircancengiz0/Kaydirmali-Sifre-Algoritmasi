@@ -33,7 +33,8 @@
 <h3> C) <sub> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/930ede41-5650-46d5-8fdf-5c6b83432be2" alt=dosyadakiSifreleriSilmeSekmesi width=250> </sub> </h3> </br>
 - Menüdeyken "3" tuşlanırsa "DOSYADAKI SIFRELERI TEMIZLE" sekmesi açılır.
 - Bu sekme "sifrelerim.rtf" dosyasındaki şifrelerin hepsini temizlemek içindir.
-- Sekme ilk açıldığında bir uyarı yapılır. (<img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/c2ca0f5b-2241-435c-a739-ba8d1571009b" alt=uyari1 width=200> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/b98e524d-f637-4237-b10e-e53e78d49176" alt=uyari2 width=200 >)</br>
+- Sekme ilk açıldığında bir uyarı yapılır. 
+(<img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/c2ca0f5b-2241-435c-a739-ba8d1571009b" alt=uyari1 width=200> <img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/b98e524d-f637-4237-b10e-e53e78d49176" alt=uyari2 width=200 >)</br>
 - Burada kullanıcı '0' girip "enter" tuşlarsa şifreler tümüyle temizlenir, farklı bir tuşa basması durumunda şifreler silinmez ve ana menüye dönülür.
 
 <h3> D)<sub><img src="https://github.com/emircancengiz0/Kaydirmali-Sifre-Algoritmasi/assets/153457205/75fe90e4-4e29-440c-81c7-b426aabff38e" alt=kayitliSifreler width=220 </sub> </h3> </br>
